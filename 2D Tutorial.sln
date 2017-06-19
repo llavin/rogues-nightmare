@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Tutorial", "2D Tutorial.csproj", "{C27F68CD-124F-8ED4-D5EE-36216CEE9F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Tutorial.Editor", "2D Tutorial.Editor.csproj", "{20569CED-41E6-FB8F-CA2B-626C78812693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C27F68CD-124F-8ED4-D5EE-36216CEE9F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27F68CD-124F-8ED4-D5EE-36216CEE9F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27F68CD-124F-8ED4-D5EE-36216CEE9F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27F68CD-124F-8ED4-D5EE-36216CEE9F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20569CED-41E6-FB8F-CA2B-626C78812693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20569CED-41E6-FB8F-CA2B-626C78812693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20569CED-41E6-FB8F-CA2B-626C78812693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20569CED-41E6-FB8F-CA2B-626C78812693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
